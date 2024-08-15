@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Thakur</h1>
-<h3 align="center">Computer Engineer from IOE Purwanchal Campus, Dharan.</h3>
+<h3 align="center">Computer Engineer graduated from IOE Purwanchal Campus, Dharan.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
